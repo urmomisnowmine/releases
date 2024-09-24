@@ -2,10 +2,11 @@
 
 # Installation
 ## How to install in Chrome?
+### For PC
+Download the `ZIP` file then extract it and simply select `Load unpacked` from Browser extension page and select the extracted folder.
 
-For PC: Download the `ZIP` file then extract it and simply select `Load unpacked` from Browser extension page and select the extracted folder.
-
-For Mobile (Kiwi): Download the `CRX` file then Simply open extensions page and select `Load (.crx, .zip, .user.js)` then select the CRX file.
+### For Mobile (Kiwi)
+Download the `CRX` file then Simply open extensions page and select `Load (.crx, .zip, .user.js)` then select the CRX file.
 
 
 ## How to install in Firefox?
