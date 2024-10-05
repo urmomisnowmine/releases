@@ -1,5 +1,5 @@
 # Dot Bypasser
-
+Dot Bypasser is now only available as an Extension, it's easy to install, no certificate needed. Where is download link? [Click here](github.com/urmomisnowmine/releases/releases/latest)
 # Installation
 ## How to install in Chrome?
 ### For PC
