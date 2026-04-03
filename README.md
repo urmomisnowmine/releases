@@ -1,2 +1,2 @@
 # Moved
-Repository moved to [DotBypasser/DotBypasser](https://github.com/DotBypasser/DotBypasser)
+Repository moved to [DotBypasser/DotBypasser](https://dotbypasser.net)
